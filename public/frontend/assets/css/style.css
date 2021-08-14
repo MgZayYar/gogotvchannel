@@ -1,0 +1,19 @@
+
+body { 
+	background: #2C3539;
+	}
+
+strong { font-weight: 600; }
+
+a { color: #a365bc; border-bottom: 1px dashed #a365bc; text-decoration: none; transition: all .3s; }
+a:hover, a:focus { color: #a365bc; border: 0; text-decoration: none; }
+
+/***** Top content *****/
+
+.top-content { width: 100%; padding-top: 100px; }
+
+.carousel-control-next, .carousel-control-prev { border: 0; }
+
+
+
+
